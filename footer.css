@@ -1,0 +1,86 @@
+#footer {
+    background: rgba(95, 47, 75, 0.95);
+    padding: 50px 200px 20px 200px;
+
+}
+
+.footer-contact {
+    border: 0px solid black;
+
+    height: 300px;
+    color: white;
+
+}
+
+.hhh {
+    float: left;
+    border: 0px solid white;
+    border-right-width: 2px;
+    height: 100px;
+    width: 180px;
+}
+
+.fff {
+    float: right;
+    border: 0px solid white;
+    height: 100px;
+    width: 900px;
+}
+
+.good {
+    padding: 100px 200px 110px 300px;
+}
+
+
+.reason {
+    padding-top: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 0px solid red;
+    height: 250px;
+    width: 320px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.danner {
+
+    height: 850px;
+    width: 1685px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(7.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+    background-repeat: no-repeat;
+    text-align: center;
+
+    color: white;
+}
+
+.q {
+    border: 1px solid black;
+    border-radius: 20%;
+    height: 35px;
+    font-size: 20px;
+    width: 60px;
+    background-color: rgb(95, 47, 75);
+    color: antiquewhite;
+    text-align: center;
+    margin-left: 150px;
+    border-style: none;
+    outline: none;
+}
+
+.q a {
+    color: white;
+}
+
+.q a:hover {
+
+    color: white;
+    background-color: rgb(95, 47, 75)
+}
+
+.t {
+    background-color: white
+}
